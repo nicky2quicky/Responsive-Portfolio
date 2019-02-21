@@ -296,7 +296,7 @@ h3, h2 {
   margin-bottom: 10px;
   background: #ffffff;
   border: 1px solid #dddddd;
-  height: 450px ;
+  height: auto;
 }
 
 }
@@ -463,7 +463,7 @@ h3, h2 {
     margin-bottom: 0px;
     background: #ffffff;
     border: 1px solid #dddddd;
-    height: 500px ;
+    height: auto;
   }
 
 }
